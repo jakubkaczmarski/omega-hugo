@@ -10,10 +10,10 @@ sections:
   path: exampleSite/data/homepage.yml
   label: Strona Główna
 - type: heading
-  label: Dystrybutory filtrujące wodę
+  label: Product
 - type: document
   path: exampleSite/content/career.md
-  label: Dystrybutory filtrujące wode
+  label: Product
 - type: heading
   label: All Pages
 - type: directory
