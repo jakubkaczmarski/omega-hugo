@@ -5,15 +5,15 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: heading
-  label: Homepage
+  label: Strona Główna
 - type: document
   path: exampleSite/data/homepage.yml
-  label: Homepage
+  label: Strona Główna
 - type: heading
-  label: Career
+  label: Dystrybutory filtrujące wodę
 - type: document
   path: exampleSite/content/career.md
-  label: Career
+  label: Dystrybutory filtrujące wode
 - type: heading
   label: All Pages
 - type: directory
